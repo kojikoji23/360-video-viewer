@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/360-video-viewer/static/css/main.37522d16.css",
+    "main.js": "/360-video-viewer/static/js/main.c57a7ac3.js",
+    "static/js/453.f0093be8.chunk.js": "/360-video-viewer/static/js/453.f0093be8.chunk.js",
+    "index.html": "/360-video-viewer/index.html",
+    "main.37522d16.css.map": "/360-video-viewer/static/css/main.37522d16.css.map",
+    "main.c57a7ac3.js.map": "/360-video-viewer/static/js/main.c57a7ac3.js.map",
+    "453.f0093be8.chunk.js.map": "/360-video-viewer/static/js/453.f0093be8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37522d16.css",
+    "static/js/main.c57a7ac3.js"
+  ]
+}
